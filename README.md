@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laiba-mohammadali-26" alt="laiba-mohammadali-26" /></a> </p>
 
-- 🔭 I’m currently working on **RideRent**
+- 🔭 I’m currently working on **Frontend Web Project**
 
 - 🌱 I’m currently learning **MernStack**
 
-- 👯 I’m looking to collaborate on **In React PROJECTS**
+- 👯 I’m looking to collaborate on **Full Stack PROJECTS**
 
 - 💬 Ask me about **FrontEnd Web Development**
 
