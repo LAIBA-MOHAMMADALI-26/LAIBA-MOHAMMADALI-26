@@ -1,4 +1,4 @@
-<img width="50%"  src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<img width="50%"  src="https://thumbs.dreamstime.com/b/female-web-developer-writing-code-laptop-co-working-space-as-remote-work-programmer-typing-source-codes-using-mobile-176867269.jpg">
 <h1 align="center">Hi 👋, I'm Laiba Mohammad Ali</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
